@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+gcreds.json
+key.txt
+log.txt
